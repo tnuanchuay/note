@@ -7,3 +7,4 @@
 - [ ] GAN https://medium.com/@jonathan_hui/gan-whats-generative-adversarial-networks-and-its-application-f39ed278ef09?fbclid=IwAR1TE7j1IG-x0OO-2cDCMDXR842Ar4B8XHkzVamxEwQsbG89mzR1vUZNyuU
 - [ ] Image generator http://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution
 - [ ] GAN https://medium.com/@jonathan_hui/gan-cyclegan-6a50e7600d7
+- [ ] GAN http://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution
