@@ -8,3 +8,4 @@
 - [ ] Image generator http://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution
 - [ ] GAN https://medium.com/@jonathan_hui/gan-cyclegan-6a50e7600d7
 - [ ] GAN http://bamos.github.io/2016/08/09/deep-completion/#step-1-interpreting-images-as-samples-from-a-probability-distribution
+- [ ] CDCGAN https://medium.com/@jonathan_hui/gan-dcgan-deep-convolutional-generative-adversarial-networks-df855c438f
